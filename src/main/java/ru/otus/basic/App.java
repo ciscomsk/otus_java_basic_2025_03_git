@@ -8,6 +8,10 @@ public class App {
         task2();
     }
 
+    public static void doSomething() {
+        IntStream.rangeClosed(1, 3).forEach(System.out::println);
+    }
+
     public static void task2() {
         System.out.println("---");
         System.out.println("- -");
