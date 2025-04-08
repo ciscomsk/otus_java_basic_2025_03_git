@@ -25,8 +25,8 @@ public class App {
         System.out.println();
         System.out.println("- - -");
 
-        int a = 0;
-        int b = 0;
+        int a = 3;
+        int b = 3;
         a++;
         b += a;
         System.out.println(a + b);
