@@ -32,4 +32,8 @@ public class App {
         b += a;
         System.out.println(a + b);
     }
+
+    public static void homework1() {
+        System.out.println(5);
+    }
 }
