@@ -16,6 +16,7 @@ public class App {
         System.out.println("B");
         System.out.println("A");
         System.out.println("---");
+        System.out.println(5);
     }
 
     public static void task2() {
