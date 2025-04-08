@@ -13,6 +13,7 @@ public class App {
         IntStream.rangeClosed(1, 3).forEach(System.out::println);
         System.out.println(-2);
         System.out.println("B");
+        System.out.println("A");
     }
 
     public static void task2() {
