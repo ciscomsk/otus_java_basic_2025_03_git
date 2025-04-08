@@ -9,8 +9,10 @@ public class App {
     }
 
     public static void doSomething() {
+        System.out.println("Q");
         IntStream.rangeClosed(1, 3).forEach(System.out::println);
         System.out.println(-2);
+        System.out.println("B");
     }
 
     public static void task2() {
